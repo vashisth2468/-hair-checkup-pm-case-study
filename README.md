@@ -1,3 +1,22 @@
+# ⛔ PRIVATE PROJECT - NO UNAUTHORIZED USE
+
+**Notice:** This project is proprietary and confidential. 
+
+By accessing this repository, you agree to the terms of the included [LICENSE](./LICENSE.txt). 
+- **Do not** copy the code.
+- **Do not** modify the files.
+- **Do not** distribute this work.
+
+If you are interested in using this project for any purpose, please reach out to me at vashisth.prajapati66@gmail.com
+
+
+
+
+
+
+
+
+
 # 💇 Hair Checkup — PM Case Study
 
 > **A Smart Shampoo Recommendation System** > *Designed by Vashisth Prajapati | CSE Student '27*
