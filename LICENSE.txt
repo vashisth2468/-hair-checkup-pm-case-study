@@ -1,0 +1,17 @@
+PROPRIETARY LICENSE
+Copyright © 2026 Vashisth Prajapati. All rights reserved.
+
+1. RESTRICTIONS
+All software and documentation contained in this repository are the exclusive property of [Your Name]. Unauthorized use, reproduction, or distribution is strictly prohibited. Specifically:
+
+No Copying: You may not duplicate, mirror, or redistribute the source code or binaries.
+
+No Modification: You may not alter, transform, or build upon this work.
+
+No Commercial Use: You may not sell, rent, or lease this software or use it for any revenue-generating purposes.
+
+2. PERMISSIONS
+Any use of this software outside of private viewing requires written consent from the author.
+
+3. CONTACT
+For licensing inquiries or permission requests, please contact: vashisth.prajapati66@gmail.com
